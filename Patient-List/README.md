@@ -25,14 +25,14 @@ To ensure a professional-grade delivery, this project followed a standard indust
   9. Maintenance: Built a scalable model for monthly data refreshes.
 
 ## Key Insights and Features
-1. Executive Summary Page
+### 1. Executive Summary Page
 - **KPI Tracking**: Real-time monitoring of the latest month's waitlist vs. the previous year.
 
 - **Case Distribution**: A donut chart visualizes the volume split, revealing that Outpatients typically comprise the largest portion of the waitlist.
 
 - **Trend Analysis**: Dual line charts showing the divergent trends between Inpatient/Day Case and Outpatient volumes.
 
-2. Granular Analysis
+### 2. Granular Analysis
 - **Age Profile**: Detailed breakdown showing high concentrations in the 16–64 age bracket.
 
 - **Specialty Deep-Dive**: Identification of the Top 5 specialties (e.g., Accident & Emergency) requiring immediate attention.
