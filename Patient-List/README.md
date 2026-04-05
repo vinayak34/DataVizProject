@@ -56,4 +56,11 @@ To ensure a professional-grade delivery, this project followed a standard indust
  - /Screenshots : High-resolution images of the Summary and Detailed pages.
 
 ## Screenshots
+Summary View
+<img width="1600" height="905" alt="image" src="https://github.com/user-attachments/assets/2209bf1c-2f75-4694-b538-7bada1047489" />
+
+Detailed View
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/e0c5ff30-62b9-44d9-be09-1daaba06ce59" />
+
+
 
