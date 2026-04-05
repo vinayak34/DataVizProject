@@ -1,9 +1,9 @@
-#Hospital Patient Wait List Analysis
+# Hospital Patient Wait List Analysis
 
-##Project Overview
+## Project Overview
 This project focuses on analysing hospital patient waiting lists from 2018 to 2021. Using a 9-step Power BI development lifecycle, the dashboard provides insights into patient categories (Inpatient, Outpatient, and Day Case), historical trends, and demographic distributions to healthcare administrators optimise resource allocation.
 
-##The 9-step Development Process
+## The 9-step Development Process
 To ensure a professional-grade delivery, this project followed a standard industry workflow:
 
   1. Requirement Gathering: Identified KPIs (Average vs. Median wait times).
@@ -24,7 +24,7 @@ To ensure a professional-grade delivery, this project followed a standard indust
   
   9. Maintenance: Built a scalable model for monthly data refreshes.
 
-##Key Insights and Features
+## Key Insights and Features
 1. Executive Summary Page
 - **KPI Tracking**: Real-time monitoring of the latest month's waitlist vs. the previous year.
 
@@ -39,7 +39,7 @@ To ensure a professional-grade delivery, this project followed a standard indust
 
 - **Time Banding**: Analysis of how long patients have been waiting, categorized by duration.
 
-##Technical Highlights
+## Technical Highlights
 - **Outlier Management**: Utilized Median wait times alongside Average to prevent extreme values from skewing the operational reality.
 
 - **DAX Measures**: * Latest Month Waitlist
