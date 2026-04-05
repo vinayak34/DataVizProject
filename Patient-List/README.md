@@ -42,11 +42,18 @@ To ensure a professional-grade delivery, this project followed a standard indust
 ## Technical Highlights
 - **Outlier Management**: Utilized Median wait times alongside Average to prevent extreme values from skewing the operational reality.
 
-- **DAX Measures**: * Latest Month Waitlist
+- **DAX Measures**: _Latest Month Waitlist_
 
-Prior Year Waitlist
-
-Dynamic Tooltip Labels
+  - _Prior Year Waitlist_
+    
+  - _Dynamic Tooltip Labels_
 
 - **Navigation**: Integrated a seamless "View Details" button for drill-through capabilities.
+
+## Repository Structure
+ - /Dashboard : Contains the .pbix file.
+ - /Data : Sample CSV files used for the analysis (2018-2021).
+ - /Screenshots : High-resolution images of the Summary and Detailed pages.
+
+## Screenshots
 
