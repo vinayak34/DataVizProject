@@ -26,3 +26,11 @@ This project is a comprehensive Human Resources(HR) analytics solution designed 
 
   - **Interactive Tooltips**: Embedded entire charts (Viz-in-Tooltip) to allow managers to see "Top Jobs" just by hovering over a department.
 ## Screenshots
+Overview
+
+<img width="1435" height="833" alt="image" src="https://github.com/user-attachments/assets/c664fc62-dc3c-4958-9e03-671c64b77080" />
+
+Details
+
+<img width="1440" height="830" alt="image" src="https://github.com/user-attachments/assets/ad583152-b0f1-4036-90a3-71656bcded15" />
+
