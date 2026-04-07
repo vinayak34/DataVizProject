@@ -16,7 +16,7 @@ This dashboard analyzes the "Most Streamed Spotify Songs of 2023" using advanced
 - **Deneb Unit Chart**: A custom-coded circular progress gauge to visualize the average Energy % of songs, styled with Spotify-branded gradients [].
 - **Deneb Heatmap**: A sophisticated monthly release frequency heatmap with integrated bar charts, providing a 2D view of when tracks were released [].
 ## Repository Structure
-- /Data: Original Kaggle CSV and the Python-enriched version.
-- /Scripts: Python code used for Spotify API data fetching.
-- /Dashboard: The .pbix Power BI file.
-- /Assets: PowerPoint background templates and custom icons.
+- **/Data**: Original Kaggle CSV and the Python-enriched version.
+- **/Scripts**: Python code used for Spotify API data fetching.
+- **/Dashboard**: The .pbix Power BI file.
+- **/Assets**: PowerPoint background templates and custom icons.
