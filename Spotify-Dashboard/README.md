@@ -2,10 +2,10 @@
 ## Project Overview
 This dashboard analyzes the "Most Streamed Spotify Songs of 2023" using advanced Power BI techniques. The project focuses not only on standard metric reporting but also on data enrichment via Python, custom UI design, and the use of declarative visualization (Deneb) to push the limits of Power BI's standard visual library.
 ## Technical Workflow
-1. **Data Enrichment (ChatGPT & Python)**: Used ChatGPT to write Python code that utilizes the Spotify Web API to fetch album cover image URLs for every track in the Kaggle dataset [].
-2. **UI/UX Design**: Created a professional Glassmorphism background using PowerPoint gradients and rounded shapes to provide a modern, sleek aesthetic [].
-3.** Data Modelling**: Implemented a star schema with a custom calendar table generated via the Bravo external tool [].
-4. **Advanced Visuals**: Integrated HTML and Deneb visuals to achieve designs (like rounded image corners and heatmaps) that are impossible with out-of-the-box Power BI visuals [].
+1. **Data Enrichment (ChatGPT & Python)**: Used ChatGPT to write Python code that utilizes the Spotify Web API to fetch album cover image URLs for every track in the Kaggle dataset.
+2. **UI/UX Design**: Created a professional Glassmorphism background using PowerPoint gradients and rounded shapes to provide a modern, sleek aesthetic.
+3.** Data Modelling**: Implemented a star schema with a custom calendar table generated via the Bravo external tool.
+4. **Advanced Visuals**: Integrated HTML and Deneb visuals to achieve designs (like rounded image corners and heatmaps) that are impossible with out-of-the-box Power BI visuals.
 ## Key Dashboard Features
 ### 1. Dynamic KPIs & Analytics
 - **Top Song Insights**: Displays the most streamed track name, artist, and release date [].
