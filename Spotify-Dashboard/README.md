@@ -21,4 +21,7 @@ This dashboard analyzes the "Most Streamed Spotify Songs of 2023" using advanced
 - **/Dashboard**: The .pbix Power BI file.
 - **/Assets**: PowerPoint background templates and custom icons.
 ## Screenshots
+<img width="1600" height="890" alt="image" src="https://github.com/user-attachments/assets/f292faec-8691-46fe-b7c9-9b746d64ecb4" />
+
+<img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/15068fb6-0a19-41db-a1f9-7e457fd03bc6" />
 
