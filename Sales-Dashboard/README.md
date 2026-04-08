@@ -20,4 +20,5 @@ This project delivers two high-impact Tableau dashboards designed to help stakeh
 ### Screenshots
 <img width="1251" height="834" alt="image" src="https://github.com/user-attachments/assets/d75d6ecc-e6a6-4674-ac41-9776a69d96cd" />
 
-<img width="1251" height="834" alt="image" src="https://github.com/user-attachments/assets/e6276453-391d-4503-b869-f9da79e24349" />
+<img width="1246" height="844" alt="image" src="https://github.com/user-attachments/assets/6a5ee5e9-3755-4700-bde6-3d6076ef4895" />
+
