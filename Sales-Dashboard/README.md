@@ -17,3 +17,4 @@ This project delivers two high-impact Tableau dashboards designed to help stakeh
 - **Customer Distribution Histogram**: Uses LOD (Level of Detail) Expressions to group customers by their total number of orders placed in the selected year.
 - **Top 10 Customers List**: A detailed ranking of customers by profit, including their last order date, total sales, and order count.
 - **Sales per Customer**: Advanced calculation dividing current year sales by the distinct count of customers to track average basket value.
+### Screenshots
