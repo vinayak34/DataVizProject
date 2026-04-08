@@ -18,3 +18,6 @@ This project delivers two high-impact Tableau dashboards designed to help stakeh
 - **Top 10 Customers List**: A detailed ranking of customers by profit, including their last order date, total sales, and order count.
 - **Sales per Customer**: Advanced calculation dividing current year sales by the distinct count of customers to track average basket value.
 ### Screenshots
+<img width="1251" height="834" alt="image" src="https://github.com/user-attachments/assets/d75d6ecc-e6a6-4674-ac41-9776a69d96cd" />
+
+<img width="1251" height="834" alt="image" src="https://github.com/user-attachments/assets/e6276453-391d-4503-b869-f9da79e24349" />
