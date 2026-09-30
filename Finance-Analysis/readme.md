@@ -1,4 +1,4 @@
-#Finance Analysis and Transaction Performance Dashboard
+# Finance Analysis and Transaction Performance Dashboard
 An interactive, end-to-end Power BI analytics solution designed to evaluate transaction volumes, revenue growth, customer segmentation, tax/fee distributions, and regional performance.
 
 This project bridges raw transactional records into actionable insights, enabling stakeholders to monitor organisational health, identify high-margin segments, and analyze Year-over-Year trajectories.
