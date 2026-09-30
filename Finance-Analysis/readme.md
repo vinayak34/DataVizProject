@@ -45,8 +45,9 @@ Financial organisations process millions of transactional data points across var
 -**Custom tooltips:** Contextual hover cards displaying exact percentage splits and YoY variance.
 
 ### Screenshots
-
+#### Overview Analysis
 <img width="1600" height="860" alt="1" src="https://github.com/user-attachments/assets/8bff29b3-952e-4c72-8ace-517c4b964378" />
 
+#### Transactions
 <img width="1600" height="860" alt="2" src="https://github.com/user-attachments/assets/4f175e2e-c312-421d-8bac-140f6a07d86a" />
 
